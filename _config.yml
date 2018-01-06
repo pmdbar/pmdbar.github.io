@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Portfolio of Patrick M. D. Barbour
+title: Design Portfolio | Patrick M. D. Barbour
 email: barbour@pmdbar.com
 description: > # this means to ignore newlines until "baseurl:"
-  This site describes my work in web development since Jan 1 2018.
-  I specialize in artist websites, music websites and educational online apps.
+  This site highlights web development and other projects I have worked on since Jan 1 2018.
+  Website types: art, Business, educational websites.
   Thank you for looking and please do not hesitate to contact me.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.yourdomain.com" # the base hostname & protocol for your site
 twitter_username: pmdbar
 github_username:  pmdbar
 
