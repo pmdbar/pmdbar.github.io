@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Chef Boy-R-D2"
+date:   2018-01-09 11:33:00 +0000
+categories: 3-D modeling
+---
+After [Verne E. Stern][ves] got up and running, Vern proposed a 3-D modeling project.  Basically, I would turn a sketch of a character that is part sci-fi droid and part canned spaghetti into a 3-D model then get the model printed and painted.  I gladly accepted the challenge!
+
+I created the 3-D model using [blender][blend].  Blender is a very powerful tool and takes a little time to get familiar with.  I didn't have any habits from other modeling software to forget so I was on my feet after a couple days.  I would recommend getting started watching tutorials on YouTube (huge selection of high quality guides).  After fine tuning my model for 3-D printing I uploaded the work to [Shapeways][shapeways] and had them print the design.  I had the order rushed and it arrived within a week ready for paint.  I interpreted the color scheme and used a basic acrylic paint set to finish the piece.
+
+Here are some pictures of the final product:
+[Front view]({{ "/assets/cbrd2-front.jpg" | absolute_url }})
+
+[ves]:http://www.vernestern.com/
+[blend]: https://www.blender.org/
+[shapeways]:https://www.shapeways.com/
