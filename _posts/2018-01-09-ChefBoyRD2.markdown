@@ -9,7 +9,7 @@ After [Verne E. Stern][ves] got up and running, Vern proposed a 3-D modeling pro
 I created the 3-D model using [blender][blend].  Blender is a very powerful tool and takes a little time to get familiar with.  I didn't have any habits from other modeling software to forget so I was on my feet after a couple days.  I would recommend getting started watching tutorials on YouTube (huge selection of high quality guides).  After fine tuning my model for 3-D printing I uploaded the work to [Shapeways][shapeways] and had them print the design.  I had the order rushed and it arrived within a week ready for paint.  I interpreted the color scheme and used a basic acrylic paint set to finish the piece.
 
 Here are some pictures of the final product:
-[Front view]({{ "/assets/cbrd2-front.jpg" | absolute_url }})
+[Front view]({{ "www.pmdbar.com/assets/cbrd2-front.jpg" | absolute_url }})
 
 [ves]:http://www.vernestern.com/
 [blend]: https://www.blender.org/
