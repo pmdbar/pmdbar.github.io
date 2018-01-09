@@ -10,6 +10,9 @@ I created the 3-D model using [blender][blend].  Blender is a very powerful tool
 
 Here are some pictures of the final product:
 ![Front view]({{ "/assets/cbrd2-front.jpg" | absolute_url }})
+![Left view]({{ "/assets/cbrd2-leftside.jpg" | absolute_url }})
+![Right view]({{ "/assets/cbrd2-rightside.jpg" | absolute_url }})
+![Rear view]({{ "/assets/cbrd2-rear.jpg" | absolute_url }})
 
 [ves]:http://www.vernestern.com/
 [blend]: https://www.blender.org/
