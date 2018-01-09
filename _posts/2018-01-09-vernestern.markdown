@@ -2,7 +2,7 @@
 layout: post
 title:  "Vern E Stern"
 date:   2018-01-09 01:32:00 +0000
-categories: Web Development
+categories: Web Development-Art
 ---
 My first web design project was for a cartoonist operating under the alias "Vern E Stern".  The artist had the following requests for the site:
 style matches the art,
