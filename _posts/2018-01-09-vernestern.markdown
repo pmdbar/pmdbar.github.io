@@ -11,7 +11,11 @@ about section with picture,
 mobile browser friendly,
 domain specific e-mail.
 
-I started by registering a domain name with Amazon Web Services, then I found a nice template on https://www.w3schools.com/w3css/w3css_templates.asp.  I removed some input boxes and added all the sketches to the site then updated the about and contact section.  Then I set-up hosting with http://www.hostgator.com/ and set up e-mail.  The site is simple, works with the art and allows Vern to have a specific and professional e-mail to correspond with potential patrons.
+I started by registering a domain name with [Amazon Web Services][aws], then I found a suitable template from [w3schools][w3schools].  I modified the template by removing the stock user input boxes then added specific content and some other minor changes.  I set-up hosting with [HostGator][hostgator] and used their services to set up e-mail.  The site is simple, works with the art and allows Vern to have a specific and professional e-mail to correspond with potential patrons.
 
-Here is the final site http://www.vernestern.com/
- 
+Here is the final site [Vern E. Stern][ves].
+
+[aws]: https://aws.amazon.com/
+[w3schools]:https://www.w3schools.com/w3css/w3css_templates.asp
+[hostgator]:http://www.hostgator.com/
+[ves]:http://www.vernestern.com/
